@@ -25,3 +25,27 @@
 -   UCL Arena workshops / [ALP - Arena lecturers on probation](https://www.ucl.ac.uk/teaching-learning/professional-development/ucl-arena-lecturers-probation)
 -   ARC/DSD Peer Obs Scheme
 -   ARC Teach & Code Socials and education themed conferences
+
+## Tooling and Material Creation
+
+**Example Activities:**
+
+-    Development and review of Course Materials
+-   Investigate new teaching tools
+-   Be actively engaged with relevant UCL communities
+-   Be a maintainer for a Carpentries lesson
+
+**Indicators of Impact:**
+
+-   Participating in projects that contribute to improving education for students
+    
+-   Present at a TeachSocial event
+-   Contribute to learning design workshops
+-   AdvanceHE Fellow
+-   CMALT
+
+**CPD Opportunities:** 
+
+-   UCL ARENA workshops
+-   Digital Education Self-paced courses
+-   ARC Teach Socials
