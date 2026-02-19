@@ -22,3 +22,23 @@
 -   [ARC Teach & Code Socials](https://www.ucl.ac.uk/advanced-research-computing/education) and education themed conferences
 -   [Turing Institute Data Science and AI Educators' Programme](https://www.turing.ac.uk/data-science-and-ai-educators-programme)
 -   [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/training_calendar.html)
+
+## Tooling and Material Creation
+
+**Example Activities:**
+
+-   Support Development of Course Materials
+-   Assist in supporting Submitty
+
+**Indicators of Impact:**
+
+-   Support the maintenance and development of Moodle courses
+-   Support the maintenance and development of online resources
+-   AdvanceHE Associate Fellow
+-   Associate CMALT
+
+  **CPD Opportunities:** 
+
+-   Digital Education Self-paced courses
+-   UCL ARENA workshops
+-   ARC Teach Socials
