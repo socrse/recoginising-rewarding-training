@@ -1,7 +1,5 @@
 # Principal Educator
 
-## Teaching and Instructing
-
 **Example Activities:**
 
 -   Lead on development of ARC Education Strategy
