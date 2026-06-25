@@ -1,5 +1,7 @@
 # Principal Educator
 
+Pay scale points: 47 to 50
+
 **Example Activities:**
 
 -   Lead on development of ARC Education Strategy
