@@ -1,5 +1,7 @@
 # Beginner Educator
 
+Pay scale points: 22 to 28
+
 ## Teaching and Instructing
 **Example Activities:**
 
