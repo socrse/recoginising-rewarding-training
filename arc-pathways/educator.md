@@ -1,5 +1,7 @@
 # Educator
 
+Pay scale points: 30 to 37
+
 ## Teaching and Instructing
 **Example Activities:**
 
