@@ -1,10 +1,13 @@
 # ARC Educator Pathway Overview
 
-A suggested development pathway for ARC Educators is outlined below, regardless of whether focus is on delivery, development of materials and supporting infrastructure, or both. These have been developed with reference to the [UCL Academic Careers Framework (Education)](https://www.ucl.ac.uk/human-resources/sites/human-resources/files/ucl-130418.pdf) and the [AdvanceHE Professional Standards Framework (2023)](https://documents.advance-he.ac.uk/download/file/document/10539). Within UCL AdvanceHE Fellowships are accredited by the [ARENA Centre for Research Based Education](https://www.ucl.ac.uk/teaching-learning/professional-development). In addition, when selecting tooling the [ALT Ethical Framework](https://www.alt.ac.uk/about-alt/what-we-do/alts-ethical-framework-learning-technology) should be taken into consideration. [ALT Certification](https://www.alt.ac.uk/certified-membership) is an alternative/additional pathway for those who wish to focus on tooling and learning resource creation.
+A suggested development pathway for ARC Educators is outlined below, regardless of whether focus is on delivery, development of materials and supporting teaching tools and infrastructure, or all. 
 
-These are mapped to the UCL grades 6, 7, 8 and 9 respectively. These are mapped to pay scale points, these are indicated on each descriptor page: [2025/26 UCL Non-clinical grade structure with spinal points](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/2025-_26_ucl_non-clinical_grade_structure_with_spinal_points_v4.pdf)
+These have been developed with reference to the [UCL Academic Careers Framework (Education)](https://www.ucl.ac.uk/human-resources/sites/human-resources/files/ucl-130418.pdf) and the [AdvanceHE Professional Standards Framework (2023)](https://documents.advance-he.ac.uk/download/file/document/10539). Within UCL AdvanceHE Fellowships are accredited by the [ARENA Centre for Research Based Education](https://www.ucl.ac.uk/teaching-learning/professional-development). In addition, when selecting tooling the [ALT Ethical Framework](https://www.alt.ac.uk/about-alt/what-we-do/alts-ethical-framework-learning-technology) should be taken into consideration. [ALT Certification](https://www.alt.ac.uk/certified-membership) is an alternative/additional pathway for those who wish to focus on tooling and learning resource creation.
 
-On the following pages, more detail is given for those wanting to focus on Teaching/Instructing and/or Tooling and Materials Creation.
+Educator descriptions in the pathway are mapped to the UCL grades 6, 7, 8 and 9 respectively (which may differ across institutions). 
+They are also mapped to pay scale points (which should be the same across academic institutions), indicated on each descriptor page: [2025/26 UCL Non-clinical grade structure with spinal points](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/2025-_26_ucl_non-clinical_grade_structure_with_spinal_points_v4.pdf)
+
+On the following pages, more detail is given for those wanting to focus on Teaching/Instructing, Teaching Tool Development and Materials Creation.
 
 ## Beginner Educator
 **Who:**
