@@ -11,10 +11,9 @@ On the following pages, more detail is given for those wanting to focus on Teach
 
 We are assuming that Educators are alredady operating in dRTP roles and have experience in different aspects or domains in digital research.
 
-## Beginner Educator
-**Who:**
+## Beginner/Associate Educator
 
-Those that are new to teaching and learning activities, have limited experience or who want some but limited engagement in Education activities.
+**Description:** Technical professionals operating in digital research roles who are new to teaching and learning activities, have limited experience or who want some but limited engagement in Education activities.
 
 **Example Activities:**
 
@@ -28,9 +27,8 @@ Those that are new to teaching and learning activities, have limited experience 
 -   AdvanceHE Professional Standards Framework Descriptor 1
 
 ## Educator
-**Who:**
 
-Those that are a little more experienced, are more involved in Education activities and seek accreditation.
+**Description:** Technical professionals operating in digital research roles who are a little more experienced, are more involved in Education activities and seek accreditation.
 
 **Example Activities:**
 
@@ -47,9 +45,8 @@ Those that are a little more experienced, are more involved in Education activit
 -   UCL Academic Careers Framework: Education, Grade 7
 
 ## Senior Educator
-**Who:**
 
-Experienced educators with leadership responsibilities within ARC Education, working closely with the Product Owner and key stakeholders.
+**Description:** Technical professionals operating in digital research roles who are experienced educators with leadership responsibilities within ARC Education, working closely with the Product Owner and key stakeholders.
 
 **Example Activities:**
 
@@ -66,9 +63,8 @@ Experienced educators with leadership responsibilities within ARC Education, wor
 -   UCL Academic Careers Framework: Education, Grade 8
 
 ## Principal Educator
-**Who:**
 
-Product Owner or similar.
+**Description:** Technical professionals operating in digital research roles who are Product Owners or similar.
 
 **Example Activities:**
 
