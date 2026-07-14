@@ -1,6 +1,6 @@
 # ARC Educator Pathway Overview
 
-_We are assuming that Educators are already operating in dRTP roles and have experience in different aspects or domains in digital research._
+_We are assuming that Educators are already operating in dRTP roles and already have experience in different aspects or domains in digital research._
 
 Educators focus is on any combination of delivery of teaching or training, development of materials or supporting teaching tools and infrastructure. 
 
