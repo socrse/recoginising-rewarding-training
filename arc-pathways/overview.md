@@ -9,7 +9,7 @@ They are also mapped to pay scale points (which should be the same across academ
 
 On the following pages, more detail is given for those wanting to focus on Teaching/Instructing, Teaching Tool Development and Materials Creation.
 
-We are assuming that Educators are alredady operating in dRTP roles and have experience in different aspects or domains in digital research.
+_We are assuming that Educators are alredady operating in dRTP roles and have experience in different aspects or domains in digital research._
 
 ## Beginner/Associate Educator
 
