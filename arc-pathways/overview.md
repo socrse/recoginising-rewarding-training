@@ -4,7 +4,7 @@ _We are assuming that Educators are already operating in dRTP roles and already 
 
 Educators focus is on any combination of delivery of teaching or training, development of materials or supporting teaching tools and infrastructure. 
 
-A suggested development pathway for ARC Educators is outlined below.
+The existing development pathway for Educators at UCL ARC is described below.
 
 The pathway could be used to support a standalone role of "dRTP Educator" within dRTP role space or a practical framework for teaching and training activities undertaken by people in various other dRTPs roles (where teaching and training is a part of responsibilities).
 
