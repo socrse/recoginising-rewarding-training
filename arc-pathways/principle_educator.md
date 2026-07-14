@@ -5,7 +5,7 @@ Pay scale points: 47 to 50
 **Example Activities:**
 
 -   Lead on development of ARC Education Strategy
--   Significant role in developing teaching technologies, curricula or teaching/training programme design and assessment techniques
+-   Significant role in developing teaching technologies, curricula or teaching/training programme design (in addition to individual module/course design) and assessment techniques
 -   Proven success in education leadership and/or management of a team.
 -   Sucessful development and mentoring of teaching staff
 -   Working collaboratively with departments and students to identify and address issues, and improve the quality of education in response to student feedback
