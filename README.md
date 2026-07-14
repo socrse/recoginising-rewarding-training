@@ -1,6 +1,6 @@
 # Recognising and rewarding training activity in dRTP roles and departments 
 
-This repository will host key information and public facing web pages related to the DisCouRSE funded project [Recognising and rewarding training activity in dRTP roles and departments](https://discourse-network.github.io/projects/1-15-recognising-training-in-dRTP/) 
+This repository will host key information and public facing web pages related to the DisCouRSE funded project [Recognising and rewarding training activity in dRTP roles and departments](https://discourse-network.github.io/projects/1-15-recognising-training-in-dRTP/).
 
 This project will be lead by the steering group of the SocRSE Teaching and Training SIG.
 
