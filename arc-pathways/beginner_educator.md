@@ -1,4 +1,4 @@
-# Beginner Educator
+# Beginner/Associate Educator
 
 Pay scale points: 22 to 28
 
