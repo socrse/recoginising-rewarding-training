@@ -21,7 +21,7 @@ Educator descriptions in the pathway are mapped to the UCL Ways of Working expec
 
 ## [Educator](educator.md)
 
-**Description:** Technical professionals operating in digital research roles who are a little more experienced, are more involved in Education activities and seek accreditation.
+**Description:** Technical professionals operating in digital research roles who are a little more experienced, are more involved in Education activities and seek (or have sought)accreditation.
 
 **Relates to:**
 -   AdvanceHE Professional Standards Framework Descriptor 2
