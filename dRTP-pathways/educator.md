@@ -1,17 +1,17 @@
 # Educator
 
-Pay scale points: 30 to 37
 
-## Teaching and Instructing
-**Example Activities:**
+## Example Activities:
 
 -   Workshop Instructor
 -   Workshop Organiser
--   Support Development of Course Materials (designing content, plan a class)
--   Act as a Teaching Assistant for taught modules (office hours with individual students or groups)
--   Co-deliver taught modules (discuss planning, lead sessions)
--   Co-mark taught modules (co-design assemments of modules)
--   Community involvement within UCL and/or Carpentries (attendance to community meetings, reporting workshop outputs, advertise workshops in local networks)
+-   Increased responsibility as a Teaching Assistant for taught modules (office hours with individual students or groups)
+-   Co-deliver taught modules (discuss planning, lead sessions, assessment design)
+-   Development and review of Course Materials (designing content, plan a class)
+-   Investigate new teaching tools
+-   Be actively engaged with relevant training and education related communities
+-   Be a maintainer for a Carpentries lesson
+-   Being a member of an education related special interest group
 
 **Indicators of Impact:**
 
@@ -22,32 +22,12 @@ Pay scale points: 30 to 37
 -   CMALT
 -   Certified Carpentries Instructor
 
-**CPD Opportunities:** 
+## Continuing Professional Development Opportunities:
 
--   UCL Arena workshops / [ALP - Arena lecturers on probation](https://www.ucl.ac.uk/teaching-learning/professional-development/ucl-arena-lecturers-probation)
+-   PGCert Higher Education
+-   [PGCert Learning and Teaching in Higher Education](https://www.london.ac.uk/study/courses/postgraduate/pgcert-learning-teaching-higher-education)
 -   ARC/DSD Peer Obs Scheme
 -   ARC Teach & Code Socials and education themed conferences
 
-## Tooling and Material Creation
 
-**Example Activities:**
 
--    Development and review of Course Materials
--   Investigate new teaching tools
--   Be actively engaged with relevant UCL communities
--   Be a maintainer for a Carpentries lesson
-
-**Indicators of Impact:**
-
--   Participating in projects that contribute to improving education for students
-    
--   Present at a TeachSocial event
--   Contribute to learning design workshops
--   AdvanceHE Fellow
--   CMALT
-
-**CPD Opportunities:** 
-
--   UCL ARENA workshops
--   Digital Education Self-paced courses
--   ARC Teach Socials
