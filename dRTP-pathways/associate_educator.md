@@ -10,10 +10,12 @@ Associate Educators may be those who have limited time to contribute to teaching
 -   Support the maintenance and development of learning materials
 -   Assist in supporting platforms used for teaching and learning activities
 
-**Continuing Professional Development Opportunities:** 
+## Continuing Professional Development Opportunities:
 
 -   [Turing Institute Data Science and AI Educators' Programme](https://www.turing.ac.uk/data-science-and-ai-educators-programme)
 -   [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/training_calendar.html)
+-   Attend locally organised workshops
+-   Attend Moodle Moot or similar
 -   Participate in peer observation activities
 -   Participate in post learning activity retrospectives
 -   Participate in Carpentries Community Sessions
