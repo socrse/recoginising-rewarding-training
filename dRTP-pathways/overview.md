@@ -28,7 +28,7 @@ Educator descriptions in the pathway are mapped to the UCL Ways of Working expec
 
 ## [Senior Educator](senior_educator.md)
 
-**Description:** Technical professionals operating in digital research roles who are experienced educators with leadership responsibilities within ARC Education, working closely with the Product Owner and key stakeholders.
+**Description:** Technical professionals operating in digital research roles who are experienced educators with leadership responsibilities or education activities, working closely with key stakeholders.
 
 **Relates to:**
 -   AdvanceHE Professional Standards Framework Descriptor 3
