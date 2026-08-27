@@ -1,10 +1,10 @@
-# ARC Educator Pathway Overview
+# dRTP Educator Pathway Overview
 
 _We are assuming that Educators are already operating in dRTP roles and already have experience in different aspects or domains in digital research._
 
 Educators focus is on any combination of delivery of teaching or training, development of materials or supporting teaching tools and infrastructure. 
 
-The existing development pathway for Educators at UCL ARC is described below.
+This has been adapted from the existing development pathway for Educators at UCL ARC, shared via arc-pathways.
 
 The pathway could be used to support a standalone role of "dRTP Educator" within dRTP role space or a practical framework for teaching and training activities undertaken by people in various other dRTPs roles (where teaching and training is a part of responsibilities).
 
