@@ -2,7 +2,7 @@
 
 _We are assuming that Educators are already operating in dRTP roles and already have experience in different aspects or domains in digital research._
 
-Educators focus is on any combination of delivery of teaching or training, development of materials or supporting teaching tools and infrastructure. 
+Educators focus is on any combination of delivery of teaching or training, development of materials or supporting teaching tools and infrastructure. Facilitation is an essential part of education activities but is not explicitly recognised within the framework. It is essential work that requires recognition and key activities and some continuing professional development opportunities are indentified on the [facilitation page](facilitation.md).
 
 This has been adapted from the existing development pathway for Educators at UCL ARC, shared via arc-pathways.
 
