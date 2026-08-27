@@ -1,6 +1,6 @@
 # Associate Educator
 
-Pay scale points: 22 to 28
+Associate Educators may be those who have limited time to contribute to teaching and training activity, or those new to teaching and training. 
 
 ## Teaching and Instructing
 **Example Activities:**
