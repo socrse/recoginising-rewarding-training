@@ -24,6 +24,7 @@ Senior Educators are experienced educators with leadership responsibilities for 
 -   [CIPD Associate Diploma in Organisational Learning and Development](https://www.cipd.org/uk/learning/qualifications/associate/associate-diploma-in-organisational-learning-development/#who-is-it-for)
 -   [Coaching and mentoring qualifications](https://www.i-l-m.com/learning-and-development/coaching-and-mentoring-qualifications)
 -   [BCS CITP specialism Education and Training](https://www.bcs.org/membership-and-registrations/get-registered/chartered-it-professional/)
+-    [AdvancedHE Transistion to leadership](https://www.advance-he.ac.uk/programme-events/developing-leadership/transition-to-leadership)
 
 
 
