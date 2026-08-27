@@ -8,21 +8,13 @@ This has been adapted from the existing development pathway for Educators at UCL
 
 The pathway could be used to support a standalone role of "dRTP Educator" within dRTP role space or a practical framework for teaching and training activities undertaken by people in various other dRTPs roles (where teaching and training is a part of responsibilities).
 
-These have been developed with reference to the [UCL Academic Careers Framework (Education)](https://www.ucl.ac.uk/human-resources/sites/human-resources/files/ucl-130418.pdf) and the [AdvanceHE Professional Standards Framework (2023)](https://documents.advance-he.ac.uk/download/file/document/10539). Within UCL AdvanceHE Fellowships are accredited by the [ARENA Centre for Research Based Education](https://www.ucl.ac.uk/teaching-learning/professional-development). In addition, when selecting tooling the [ALT Ethical Framework](https://www.alt.ac.uk/about-alt/what-we-do/alts-ethical-framework-learning-technology) should be taken into consideration. [ALT Certification](https://www.alt.ac.uk/certified-membership) is an alternative/additional pathway for those who wish to focus on tooling and learning resource creation.
+The original frameowrk was developed with reference to the [UCL Academic Careers Framework (Education)](https://www.ucl.ac.uk/human-resources/sites/human-resources/files/ucl-130418.pdf) and the [AdvanceHE Professional Standards Framework (2023)](https://documents.advance-he.ac.uk/download/file/document/10539). Within UCL AdvanceHE Fellowships are accredited by the [ARENA Centre for Research Based Education](https://www.ucl.ac.uk/teaching-learning/professional-development). In addition, when selecting tooling the [ALT Ethical Framework](https://www.alt.ac.uk/about-alt/what-we-do/alts-ethical-framework-learning-technology) should be taken into consideration. [ALT Certification](https://www.alt.ac.uk/certified-membership) is an alternative/additional pathway for those who wish to focus on tooling and learning resource creation.
 
-Educator descriptions in the pathway are mapped to the UCL grades 6, 7, 8 and 9 respectively (which may differ across institutions). 
-They are also mapped to pay scale points (which should be the same across academic institutions), indicated on each descriptor page: [2025/26 UCL Non-clinical grade structure with spinal points](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/2025-_26_ucl_non-clinical_grade_structure_with_spinal_points_v4.pdf)
+Educator descriptions in the pathway are mapped to the UCL Ways of Working expectations and to the equivalent academic (teaching) roles PGTA/Junior Lecturer, Lecturer, Senior Lecturer and Associate Professor.
 
 ## Beginner/Associate Educator
 
 **Description:** Technical professionals operating in digital research roles who are new to teaching and learning activities, have limited experience or who want some but limited engagement in Education activities.
-
-**Example Activities:**
-
--   Carpentries Workshop Demonstrator
--   Carpentries Workshop Instructor
--   Support Development of Course Materials
--   Act as a Teaching Assistant for taught modules
 
 **Relates to:**
 
@@ -32,60 +24,24 @@ They are also mapped to pay scale points (which should be the same across academ
 
 **Description:** Technical professionals operating in digital research roles who are a little more experienced, are more involved in Education activities and seek accreditation.
 
-**Example Activities:**
-
--   Carpentries Workshop Instructor
--   Carpentries Workshop Organiser
--   Support Development of Course Materials
--   Act as a Teaching Assistant for taught modules
--   Co-deliver taught modules
--   Co-mark taught modules
-
 **Relates to:**
-
 -   AdvanceHE Professional Standards Framework Descriptor 2
--   UCL Academic Careers Framework: Education, Grade 7
 
 ## Senior Educator
 
 **Description:** Technical professionals operating in digital research roles who are experienced educators with leadership responsibilities within ARC Education, working closely with the Product Owner and key stakeholders.
 
-**Example Activities:**
-
--   Taught Module Lead
--   Carpentries Instructor Trainer
--   Mentoring of other Educators
--   Lead on the development of new training courses and modules
--   Contribute to development of ARC Education Strategy
--   Attendance at teaching committees and exam boards
-
 **Relates to:**
-
 -   AdvanceHE Professional Standards Framework Descriptor 3
--   UCL Academic Careers Framework: Education, Grade 8
 
 ## Principal Educator
 
-**Description:** Technical professionals operating in digital research roles who are Product Owners or similar.
-
-**Example Activities:**
-
--   Lead on development of ARC Education Strategy
--   Significant role in developing teaching technologies, course design and assessment techniques
+**Description:** Technical professionals operating in digital research roles who are Product Owners or similar
     
--   Proven success in education leadership and/or management of a team. Successful development and mentoring of teaching staff
-    
--   Working collaboratively with students to identify and address issues, and improve the quality of education in response to student feedback
-    
--   Successful collaboration with external peers on significant education projects
-    
--   Lead role in developing new or innovative approaches to the pedagogy and management of short courses for professional development
-    
-
 **Relates to:**
 
 -   AdvanceHE Professional Standards Framework Descriptor 4
--   UCL Academic Careers Framework: Education, Grade 9
+
 
   
 
